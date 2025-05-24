@@ -1,0 +1,42 @@
+{
+  "name": "blogapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.0.8",
+    "@react-three/fiber": "^9.1.2",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/three": "^0.176.0",
+    "bcryptjs": "^3.0.2",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.5.0",
+    "next": "15.1.8",
+    "next-auth": "^4.24.11",
+    "pg": "^8.16.0",
+    "pg-pool": "^3.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.3.8",
+    "react-hot-toast": "^2.5.2",
+    "react-quill": "^2.0.0",
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/pg": "^8.15.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.8",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
