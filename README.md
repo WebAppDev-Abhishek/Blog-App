@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Abhishek - Github
 
 ## 🙏 Acknowledgments
 
@@ -226,4 +226,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your-email@example.com or create an issue in the repository.
+For support, email abhisheknodejsdeveloper@gmail.com or create an issue in the repository.
+
+
+![screencapture-localhost-3000-register-2025-05-24-21_47_49](https://github.com/user-attachments/assets/5425f7c3-7a65-49b2-a8b4-ac1bbe26a3f9)
+
+![screencapture-localhost-3000-profile-2025-05-24-21_45_03](https://github.com/user-attachments/assets/85237275-2043-438e-87bc-93d8734d7949)
+
+![screencapture-localhost-3000-profile-2025-05-24-21_44_36](https://github.com/user-attachments/assets/1c9b826f-dda0-4b3d-9956-559276b1ed4e)
+
+![screencapture-localhost-3000-2025-05-24-21_41_46](https://github.com/user-attachments/assets/9c796a20-5604-4091-8ef8-d361173ae2af)
+
+![screencapture-localhost-3000-2025-05-24-21_42_36](https://github.com/user-attachments/assets/009ba437-9d5c-40c9-8dc4-67ed9efa6abc)
+
+![screencapture-localhost-3000-2025-05-24-21_42_06](https://github.com/user-attachments/assets/0df67719-820d-48cd-a930-a55b7b7dc949)
+
+
+
+
